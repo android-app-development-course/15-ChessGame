@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f9a34254-bcb8-4baa-a698-4b0d22b59927",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "战斗界面属性（HP、MP）": {
+      "ver": "1.0.3",
+      "uuid": "2f60b7e7-624e-4836-a782-b53ed6c0fbaf",
+      "rawTextureUuid": "f9a34254-bcb8-4baa-a698-4b0d22b59927",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 39,
+      "height": 83,
+      "rawWidth": 39,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

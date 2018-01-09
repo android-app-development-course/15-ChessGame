@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "511762bd-a59d-4c60-ba40-1b3f2682acf4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "战斗界面背景": {
+      "ver": "1.0.3",
+      "uuid": "35149dc5-a6eb-41f4-8306-7210119d7f1d",
+      "rawTextureUuid": "511762bd-a59d-4c60-ba40-1b3f2682acf4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1920,
+      "height": 1080,
+      "rawWidth": 1920,
+      "rawHeight": 1080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

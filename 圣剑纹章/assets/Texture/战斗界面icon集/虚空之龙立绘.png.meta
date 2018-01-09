@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "49448ba0-a119-4d6f-8528-f372805d53e9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "虚空之龙立绘": {
+      "ver": "1.0.3",
+      "uuid": "0f5ba8c5-30ca-45ce-a5eb-6a61ae269f2a",
+      "rawTextureUuid": "49448ba0-a119-4d6f-8528-f372805d53e9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 420,
+      "height": 436,
+      "rawWidth": 420,
+      "rawHeight": 436,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
