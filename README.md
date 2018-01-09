@@ -1,1 +1,3 @@
 # 15-ChessGame
+本项目为战棋游戏制作，文件夹的APK可以直接安装，安卓版本要求api-15，android 4.0以上
+项目源代码位于圣剑纹章.rar中，解压后要查看请用cocoscreator查看脚本，脚本语言为JavaScript。
